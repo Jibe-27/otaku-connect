@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Solo Leveling",
+    "chapters": 110,
+    "status": "Terminé",
+    "anime": true,
+    "author": "Chugong"
+  },
+  {
+    "id": 2,
+    "title": "The Beginning After the End",
+    "chapters": 97,
+    "status": "En cours",
+    "anime": false,
+    "author": "Fusui"
+  },
+  {
+    "id": 3,
+    "title": "Omniscient Reader's Viewpoint",
+    "chapters": 86,
+    "status": "En cours",
+    "anime": true,
+    "author": "Sing Shong"
+  },
+  {
+    "id": 4,
+    "title": "Tower of God",
+    "chapters": 544,
+    "status": "En cours",
+    "anime": true,
+    "author": "SIU"
+  },
+  {
+    "id": 5,
+    "title": "UnOrdinary",
+    "chapters": 292,
+    "status": "En cours",
+    "anime": false,
+    "author": "Uruchan"
+  },
+  {
+    "id": 6,
+    "title": "The God of High School",
+    "chapters": 112,
+    "status": "Terminé",
+    "anime": true,
+    "author": "Yongje Park"
+  },
+  {
+    "id": 7,
+    "title": "Noblesse",
+    "chapters": 200,
+    "status": "Terminé",
+    "anime": true,
+    "author": "Jeho Park, Lee Gyun-Young"
+  },
+  {
+    "id": 8,
+    "title": "Mage: The Demon King's Reincarnation",
+    "chapters": 63,
+    "status": "En cours",
+    "anime": false,
+    "author": "Stone, 037"
+  },
+  {
+    "id": 9,
+    "title": "Nano Machine",
+    "chapters": 120,
+    "status": "En cours",
+    "anime": false,
+    "author": "Lee Jin-Ho, Geum Kang-Hwan"
+  },
+  {
+    "id": 10,
+    "title": "Mercenary Enrollment",
+    "chapters": 101,
+    "status": "En cours",
+    "anime": false,
+    "author": "Nokuto"
+  }
+]
